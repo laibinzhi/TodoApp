@@ -51,7 +51,7 @@ class NotifyWork(context: Context, workerParameters: WorkerParameters) :
         val notificationManager =
             applicationContext.getSystemService(NOTIFICATION_SERVICE) as NotificationManager
 
-        val subtitleNotification = "点击可进入Task详情$id"
+        val subtitleNotification = "点击可进入Task详情"
         val pendingIntent = getActivity(applicationContext, 0, intent, 0)
         val notification = NotificationCompat.Builder(applicationContext, NOTIFICATION_CHANNEL)
             .setSmallIcon(R.mipmap.ic_launcher)
