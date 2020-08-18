@@ -14,35 +14,16 @@
 
 ## 截图
 
-<html>
- <img src="http://lbz-blog.test.upcdn.net/post/todoapp_empty.jpg" width = "180" height = "390"  border="1"  />
-</html>
-
-<html>
- <img src="http://lbz-blog.test.upcdn.net/post/todoapp-list.jpg" width = "180" height = "390"  border="1"  />
-</html>
-
-<html>
- <img src="http://lbz-blog.test.upcdn.net/post/todoapp-newtask.jpg" width = "180" height = "390"  border="1"  />
-</html>
-
-
-
-<html>
- <img src="http://lbz-blog.test.upcdn.net/post/todoapp-day-select.jpg" width = "180" height = "390"  border="1"  />
-</html>
-
-<html>
- <img src="http://lbz-blog.test.upcdn.net/post/todoapp-time-select.jpg" width = "180" height = "390"  border="1"  />
-</html>
-
-<html>
- <img src="http://lbz-blog.test.upcdn.net/post/todoapp-notification.jpg" width = "180" height = "390"  border="1"  />
-</html>
-
-<html>
- <img src="http://lbz-blog.test.upcdn.net/post/todoapp-delete.gif" width = "180" height = "390"  border="1"  />
-</html>
+<img src="http://lbz-blog.test.upcdn.net/post/todoapp_empty.jpg" 
+width="180" height ="390"/>
+<img src="http://lbz-blog.test.upcdn.net/post/todoapp-list.jpg" 
+width="180" height ="390"/>
+<img src="http://lbz-blog.test.upcdn.net/post/todoapp-newtask.jpg" width="180" height ="390"/>
+<img src="http://lbz-blog.test.upcdn.net/post/todoapp-day-select.jpg" width="180" height ="390"/>
+<img src="http://lbz-blog.test.upcdn.net/post/todoapp-time-select.jpg" width="180" height ="390" />
+<img src="http://lbz-blog.test.upcdn.net/post/todoapp-notification.jpg" width="180" height ="390"/>
+<img src="http://lbz-blog.test.upcdn.net/post/todoapp-delete.gif" 
+width="180" height ="390"/>
 
 
 ## 架构组件
