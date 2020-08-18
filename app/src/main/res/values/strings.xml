@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_task">Task…</string>
+    <string name="button_save">保存</string>
+    <string name="empty_not_saved">保存失败，因为任务标题为空</string>
+    <string name="add_task">添加任务</string>
+    <string name="no_todo_data">没有任务</string>
+    <string name="title">标题</string>
+    <string name="description">描述</string>
+    <string name="remind_me">提醒</string>
+    <string name="remind_date_and_time">设置提醒时间为 %1$s %2$s %3$s</string>
+</resources>
